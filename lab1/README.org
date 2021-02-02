@@ -1,0 +1,16 @@
+* ECE 469 Lab 1
+** Building
+To build, run:
+#+begin_src bash
+  cd os
+  make
+  cd ../apps
+  make
+#+end_src
+** Running
+In ./apps, run:
+#+begin_src bash
+  make run
+#+end_src
+** External sources
+No external sources were used outside of the [[https://engineering.purdue.edu/~ee469/labs_2021/lab1.html][official lab document]].
